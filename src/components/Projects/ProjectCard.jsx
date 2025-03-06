@@ -11,7 +11,7 @@ export const ProjectCard=({project})=>{
         />
         <h3 className={styles.title}>{project.title}</h3>
         <p className={styles.description}>{project.description}</p>
-        <a href={project.link} className={styles.link}>Link</a>
+        <a href={project.link} className={styles.link} target="_blank">Link</a>
     </div>
     )
 }

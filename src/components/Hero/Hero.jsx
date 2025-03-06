@@ -6,7 +6,7 @@ export const Hero=()=>{
         <section className={styles.container}>
             <div className={styles.content}>
                 <h1 className={styles.title}>Hi , I'm Afzal</h1>
-                <p className={styles.description}>A 2nd year at IIEST shibpur who cracked the code to print "Hello World" and now into ML, FIGMA,Frontend </p>
+                <p className={styles.description}>Iam a 2nd year at IIEST shibpur who cracked the code to print "Hello World" and now into Web dev, Machine Learning, Competetive Programming and Figma</p>
                 
                 <a href="mailto:afzalshareef1005@gmial.com" className={styles.contactBtn}>
                     Contact Me

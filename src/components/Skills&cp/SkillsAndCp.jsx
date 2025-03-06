@@ -24,7 +24,7 @@ export const SkillsAndCp=()=>{
                 {
                     history.map((historyItem,id)=>{
                         return <li key={id} className={styles.historyItem}>
-                            <a href={historyItem.link} target="blank" >
+                            <a href={historyItem.link} target="_blank" >
                             <img 
                             src={getImageUrl(historyItem.imageSrc)} 
                             alt={history.platform} 

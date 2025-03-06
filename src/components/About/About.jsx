@@ -21,7 +21,7 @@ export const About=()=>{
                 <li className={styles.aboutItem}>
                     <img src={getImageUrl("about/MLicon.png")} alt="ML icon" />
                     <div className={styles.aboutItemText}>
-                        <h3>Machine Learning</h3>
+                        <h3>ML Engineer</h3>
                         <p>Iam good at classical ML algorithms , RNN's and LSTM's of Deep Learning </p>
                     </div>
                 </li>
@@ -30,6 +30,13 @@ export const About=()=>{
                     <div className={styles.aboutItemText}>
                         <h3>UI Designer</h3>
                         <p>I have designed UI pages with beautiful animations and effects using FIGMA</p>
+                    </div>
+                </li>
+                <li className={styles.aboutItem}>
+                    <img src={getImageUrl("about/cpIcon.png")} alt="CP icon" />
+                    <div className={styles.aboutItemText}>
+                        <h3>Competetive Programmer</h3>
+                        <p>Reached 3 start on codechef and check out my other cp profiles from below</p>
                     </div>
                 </li>
 

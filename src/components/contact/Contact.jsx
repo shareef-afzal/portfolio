@@ -10,15 +10,15 @@ export const Contact=()=>{
         <ul className={styles.links}>
             <li className={styles.link}>
                 <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
-                <a href="mailto:afzalshareef1005@gmail.com">afzalshareef1005@gmail.com</a>
+                <a href="mailto:afzalshareef1005@gmail.com" target="_blank">afzalshareef1005@gmail.com</a>
             </li>
             <li className={styles.link}>
                 <img src={getImageUrl("contact/linkedinIcon.png")} alt="Email icon" />
-                <a href="https://www.linkedin.com/in/afzal-shareef-aa516a2a9">Linkedin.com/shareef_afzal</a>
+                <a href="https://www.linkedin.com/in/afzal-shareef-aa516a2a9" target="_blank">Linkedin.com/shareef_afzal</a>
             </li>
             <li className={styles.link}>
                 <img src={getImageUrl("contact/githubIcon.png")} alt="Email icon" />
-                <a href="mailto:afzalshareef1005@gmail.com">afzalshareef1005@gmail.com</a>
+                <a href="https://github.com/shareef-afzal" target="_blank">afzalshareef1005@gmail.com</a>
             </li>
         </ul>
     </footer>
