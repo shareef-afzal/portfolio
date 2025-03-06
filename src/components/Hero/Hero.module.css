@@ -16,7 +16,7 @@
     flex-direction: column;
     align-items: flex-start;
     color: var(--color-text);
-    z-index: 2; /* Increased z-index to ensure it appears above background elements */
+    z-index: 2; 
     position: relative;
 }
 
@@ -30,16 +30,17 @@
     rgba(255,255,255,0) 120%);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
-    display: block !important; /* Ensures visibility */
+    display: block !important;
     visibility: visible !important;
     opacity: 1 !important;
-    z-index: 3; /* Ensure it's on top */
+    z-index: 3;
 }
 
 .description {
     font-size: 30px;
     font-family: var(--font--roboto);
     margin-bottom: 52px;
+    padding-right: 100px;
 }
 
 .contactBtn {
@@ -54,7 +55,7 @@
 }
 
 .heroImg {
-    width: 40%;
+    width: 35%;
     border-radius: 100%;
     z-index: 1;
     position: relative;
