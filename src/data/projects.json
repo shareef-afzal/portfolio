@@ -1,0 +1,14 @@
+[
+    {
+      "title": "Heart Disease Predction",
+      "imageSrc": "projects/heart.png",
+      "description": "Created a ML model with an Accuracy of 85% for the prediction of heart disease",
+      "link": "https://www.github.com"
+    },
+    {
+      "title": "UI/UX Design",
+      "imageSrc": "projects/UIUX.png",
+      "description": "A complpete UI/UX desined website for our college fest using figma",
+      "link": "https://www.figma.com/proto/fwJkdcxra3nVz5Je7L1RO3/Untitled?node-id=947-1415&t=wd4ljW4DX4OXTKv7-1"
+    }
+  ]

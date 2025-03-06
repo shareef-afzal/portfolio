@@ -1,0 +1,23 @@
+[
+    {
+        "platform":"Codechef",
+        "maxRating":"1625",
+        "award":"3 STAR",
+        "imageSrc": "skills/codechef.png",
+        "link":"https://www.codechef.com/users/shareef_afzal"
+    },
+    {
+        "platform":"Leetcode",
+        "maxRating":"1657",
+        "award":"TOP 16.47% World Wide",
+        "imageSrc": "skills/leetcode.png",
+        "link":"https://leetcode.com/u/Afzal_shareef/"
+    },
+    {
+        "platform":"codeforces",
+        "maxRating":"1209",
+        "award":"PUPIL",
+        "imageSrc": "skills/codeforces.png",
+        "link":"https://codeforces.com/profile/ShareefAfzal"
+    }
+]
